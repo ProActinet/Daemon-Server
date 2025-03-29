@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-03-15T12:00:00Z",
+  "status": "ok",
+  "metrics": {
+    "cpu": 12.5,
+    "memory": 1024,
+    "disk": 8192
+  },
+  "info": {
+    "version": "1.0.0",
+    "environment": "development"
+  }
+}
