@@ -1,4 +1,4 @@
-package envLoader
+package envloader
 
 import (
 	_ "embed"
